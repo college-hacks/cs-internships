@@ -7,6 +7,10 @@ csinternships
 ##How can I get better at interviews?
 Practice makes perfect. Critical thinking and problem solving skills do not appear overnight. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve!
 
+[Cracking the Code Interview](https://drive.google.com/file/d/0B6Y3-liwHuKGcmVFS1ZlSmV5ek0/edit?usp=sharing) - A must read for everyone 
+
+[Cracking the Code Interview](https://drive.google.com/file/d/0B6Y3-liwHuKGcmVFS1ZlSmV5ek0/edit?usp=sharing) - A must read for everyone 
+
 ##Companies to apply
 
 [Bloomberg](http://www.bloomberg.com/) - It is a company - January 32nd
