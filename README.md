@@ -13,6 +13,8 @@ Practice makes perfect. Critical thinking and problem solving skills do not appe
 
 ##Companies to apply
 
+**Last updated - Sun Aug 31 17:25:32 2014**
+
 [Bloomberg](http://www.bloomberg.com/) - It is a company - January 32nd
 
 [Facebook](https://www.facebook.com/) - It is a company - January 32nd

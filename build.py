@@ -1,3 +1,5 @@
+import time
+
 readme = open('README.md', 'w')
 readme.write('csinternships\n')
 readme.write('=============\n\n')
@@ -18,7 +20,9 @@ for line in resources:
 		readme.write('[' + resource_name + '](' + resource_link + ') - ' + resource_description + '\n\n')
 
 
+time = time.strftime("%c")
 readme.write('##Companies to apply\n\n')
+readme.write('**Last updated - ' + time + '**\n\n')
 
 # append company links here
 internships = open('src/internships.txt')
