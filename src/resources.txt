@@ -1,0 +1,8 @@
+Cracking the Code Interview
+https://drive.google.com/file/d/0B6Y3-liwHuKGcmVFS1ZlSmV5ek0/edit?usp=sharing
+Describes how the hiring process work for software developers and provides coverage of all essential materials. A must read for any CS major.
+
+Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne 
+https://drive.google.com/file/d/0B6Y3-liwHuKGUHl3TlVZUW50YUU/edit?usp=sharing
+Very practical analysis of data structures and algorithms with implementation code in Java.
+
