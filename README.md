@@ -9,6 +9,7 @@ Practice makes perfect. Critical thinking and problem solving skills do not appe
 
 ##Practice
 
+http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 http://markmiyashita.com/interviews/problems/
 
 
@@ -20,43 +21,5 @@ http://markmiyashita.com/interviews/problems/
 
 ##Companies
 
-**Last updated - Sat Sep  6 20:47:40 2014**
-
-[Bloomberg](http://jobs.bloomberg.com/americas/job/New-York-2015-Software-Engineer-Intern-Job-NY/81332300/) - Bloomberg L.P. is a privately held financial software, data and media company headquartered in New York City. - **August 8, 2014**
-
-[Facebook](https://www.facebook.com/) - It is a company - January 32nd
-
-[Snapchat](https://www.snapchat.com/) - It is a company - January 32nd
-
-[Google](https://www.google.com/) - It is a company - January 32nd
-
-[Hulu](http://www.hulu.com/) - It is a company - January 32nd
-
-[Yahoo](http://www.yahoo.com/) - It is a company - January 32nd
-
-[Twitter](https://twitter.com/) - It is a company - January 32nd
-
-[Dropbox](https://www.dropbox.com/) - It is a company - January 32nd
-
-[Box](https://www.box.com/) - It is a company - January 32nd
-
-[Square](https://squareup.com/) - It is a company - January 32nd
-
-[Wolfram](http://www.wolfram.com/) - It is a company - January 32nd
-
-[Github](https://github.com/) - It is a company - January 32nd
-
-[Microsoft](http://www.microsoft.com/) - It is a company - January 32nd
-
-[Tesla](http://www.teslamotors.com/) - It is a company - January 32nd
-
-[SpaceX](http://www.spacex.com/) - It is a company - January 32nd
-
-[Zurb](http://zurb.com/) - It is a company - January 32nd
-
-[Jane Street](https://www.janestreet.com/) - It is a company - January 32nd
-
-[InstaEdu](https://instaedu.com/) - It is a company - January 32nd
-
-[RiotGames](http://www.riotgames.com/) - It is a company - January 32nd
+**Last updated - Mon Sep 22 13:44:45 2014**
 
