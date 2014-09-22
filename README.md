@@ -4,6 +4,9 @@ cs-internships
 > In vain have you acquired knowledge, if you have not imparted it to others. **- Deuteronomy Rabbah**
 
 
+**If you are a contributor, please add the resources to the appropriate files in `src` and the run `build.py`**
+
+
 ##How can I get better at interviews?
 Practice makes perfect. Critical thinking and problem solving skills do not appear overnight. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve!
 
@@ -21,5 +24,5 @@ http://markmiyashita.com/interviews/problems/
 
 ##Companies
 
-**Last updated - Mon Sep 22 13:44:45 2014**
+**Last updated - Mon Sep 22 13:47:32 2014**
 

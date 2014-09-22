@@ -4,6 +4,8 @@ readme = open('README.md', 'w')
 readme.write('cs-internships\n')
 readme.write('=============\n\n')
 readme.write('> In vain have you acquired knowledge, if you have not imparted it to others. **- Deuteronomy Rabbah**\n\n\n')
+readme.write('**If you are a contributor, please add the resources to the appropriate files in `src` and the run `build.py`**\n\n\n')
+
 readme.write('##How can I get better at interviews?\n')
 readme.write('Practice makes perfect. Critical thinking and problem solving skills do not appear overnight. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve!\n\n')
 
