@@ -8,11 +8,12 @@ cs-internships
 
 
 ##How can I get better at interviews?
-Practice makes perfect. Critical thinking and problem solving skills do not appear overnight. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve!
+Practice makes perfect. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve.
 
 ##Practice
 
 http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+http://tekmarathon.com/arrays/
 http://markmiyashita.com/interviews/problems/
 
 
@@ -24,5 +25,9 @@ http://markmiyashita.com/interviews/problems/
 
 ##Companies
 
-**Last updated - Mon Sep 22 13:47:32 2014**
+**Last updated - Tue Sep 23 02:30:13 2014**
+
+[BloomBerg](http://jobs.bloomberg.com/job/New-York-2015-Software-Engineer-Intern-Job-NY/81332300/) - 2015 Software Engineer Intern Job - **Posted: September 08, 2014, Status: STILL OPEN**
+
+[Dropbox](https://www.dropbox.com/jobs/listing/544) - Software Engineer Intern - Summer 2015 - **Posted: Unknown, Status: STILL OPEN**
 

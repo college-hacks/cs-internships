@@ -7,7 +7,7 @@ readme.write('> In vain have you acquired knowledge, if you have not imparted it
 readme.write('**If you are a contributor, please add the resources to the appropriate files in `src` and the run `build.py`**\n\n\n')
 
 readme.write('##How can I get better at interviews?\n')
-readme.write('Practice makes perfect. Critical thinking and problem solving skills do not appear overnight. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve!\n\n')
+readme.write('Practice makes perfect. Check out these great resources that review basic data structures and then give you a whole bunch of problem sets for you to solve.\n\n')
 
 #append interview practice problems here
 practice = open('src/practice.txt')
@@ -43,9 +43,10 @@ for line in internships:
   if line != "\n":
      company_info.append(line)
   else:
-  	company_name = company_info.pop(0)[:-1]
-  	company_link = company_info.pop(0)[:-1]
-  	company_description = company_info.pop(0)[:-1]
-  	company_deadline = company_info.pop(0)[:-1]
-  	readme.write('[' + company_name + '](' + company_link + ') - ' + company_description + ' - ' + company_deadline + '\n\n')
-   
+    company_name = company_info.pop(0)[:-1]
+    company_link = company_info.pop(0)[:-1]
+    company_description = company_info.pop(0)[:-1]
+    company_deadline = company_info.pop(0)[:-1]
+    readme.write('[' + company_name + '](' + company_link + ') - ' + company_description + ' - ' + company_deadline + '\n\n')
+
+
