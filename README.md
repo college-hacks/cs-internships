@@ -13,6 +13,7 @@ Practice makes perfect. Check out these great resources that review basic data s
 ##Practice
 
 http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+
 http://tekmarathon.com/arrays/
 http://markmiyashita.com/interviews/problems/
 
@@ -25,7 +26,7 @@ http://markmiyashita.com/interviews/problems/
 
 ##Companies
 
-**Last updated - Wed Oct 15 19:45:47 2014**
+**Last updated - Wed Oct 22 23:04:44 2014**
 
 [Airbnb](www.google.com) - todo - **todo**
 
@@ -57,11 +58,15 @@ http://markmiyashita.com/interviews/problems/
 
 [Priceline](www.google.com) - todo - **todo**
 
+[Qualcomm](www.google.com) - todo - **todo**
+
 [Microsoft](www.google.com) - todo - **todo**
 
 [Snapchat](www.google.com) - todo - **todo**
 
 [SpaceX](www.google.com) - todo - **todo**
+
+[Square](http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Job%20Description&j=o2XdZfwV) - Software Engineer, Intern - 2015 - **Applications for Internships are due on February 28, 2015 at which point we will review and select candidates to interview**
 
 [Squarespace](www.google.com) - todo - **todo**
 

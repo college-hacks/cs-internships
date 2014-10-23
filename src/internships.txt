@@ -73,6 +73,11 @@ www.google.com
 todo
 **todo**
 
+Qualcomm
+www.google.com
+todo
+**todo**
+
 Microsoft
 www.google.com
 todo
@@ -87,6 +92,11 @@ SpaceX
 www.google.com
 todo
 **todo**
+
+Square
+http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Job%20Description&j=o2XdZfwV
+Software Engineer, Intern - 2015
+**Applications for Internships are due on February 28, 2015 at which point we will review and select candidates to interview.**
 
 Squarespace
 www.google.com
